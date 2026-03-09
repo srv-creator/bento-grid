@@ -5,7 +5,7 @@ body {
   background-color: #f5f5f5;
   font-family: "DM Sans", sans-serif;
   font-weight: 500;
-  box-sizing: border-box;  
+  box-sizing: border-box;
 }
 
 .collection {
@@ -24,13 +24,12 @@ body {
 }
 
 .box {
-    overflow: hidden;
+  overflow: hidden;
   border-radius: 8px;
-  padding: 5rem ;
+  padding: 5rem;
   display: flex;
   flex-direction: column;
   align-items: center;
-  text-align: ;
 }
 
 img {
@@ -54,11 +53,10 @@ img {
 .box-3 {
   grid-area: box3;
   background-color: #dcd1fc;
- 
 }
 
 .box-3 img {
-    margin: 0 0 0 9rem;
+  margin: 0 0 0 9rem;
 }
 
 .box-4 {
